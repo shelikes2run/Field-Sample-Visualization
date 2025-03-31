@@ -8,7 +8,7 @@ Click the link below to open the dashboard:
 
 [Launch in Binder](https://mybinder.org/v2/gh/shelikes2run/fuel-dashboard-binder/HEAD?urlpath=voila/render/FuelDashboard_Interactive_Complete.ipynb)
 
-Be sure to replace `YOUR_USERNAME` with your GitHub username if you fork or clone this repo.
+Be sure to replace `shelikes2run` with your GitHub username if you fork or clone this repo.
 
 ## Files
 
