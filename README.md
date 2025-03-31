@@ -1,6 +1,6 @@
 # Field-Sample-Visualization (Binder-ready)
 
-This repository contains a Voilà-powered interactive dashboard for visualizing fuel sample data from USDA.
+This repository contains a Voilà-powered interactive dashboard for visualizing fuel sample data from FEMS.
 
 ## Launch on Binder
 
