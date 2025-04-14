@@ -1,4 +1,4 @@
-# Field-Sample-Visualization (Binder-ready)
+# Field-Sample-Visualization 
 
 This repository contains a Voilà-powered interactive dashboard for visualizing the fuel sample data from FEMS.
 
@@ -15,3 +15,4 @@ Be sure to replace `shelikes2run` with your GitHub username if you fork or clone
 - `Field_Sample_Compare_Overlay.ipynb` — Main dashboard notebook
 - `requirements.txt` — Python dependencies
 - `voila.json` — Voilà configuration
+- 'runtime.txt' - Python version
