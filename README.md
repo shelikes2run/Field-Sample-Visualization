@@ -12,6 +12,6 @@ Be sure to replace `shelikes2run` with your GitHub username if you fork or clone
 
 ## Files
 
-- `FuelDashboard_Interactive_Complete.ipynb` — Main dashboard notebook
+- `Field_Sample_Compare_Overlay.ipynb` — Main dashboard notebook
 - `requirements.txt` — Python dependencies
 - `voila.json` — Voilà configuration
